@@ -1,3 +1,4 @@
 {
-  "name": "Teste"
+  "name": "Gerador de senhas",
+  "technologies": ["HTML", "CSS", "JavaScript"] 
 }
