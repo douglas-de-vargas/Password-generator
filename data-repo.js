@@ -1,3 +1,0 @@
-const myRepo = {
-  name: 'Teste'
-}
