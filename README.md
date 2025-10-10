@@ -1,3 +1,5 @@
-function Password-generator()&nbsp;{<br>
-&nbsp;&nbsp;&nbsp;&nbsp;document.write(<a href="https://s1ns3ro.github.io/Password-generator/">visualizar</a>)
-<br>}
+# Gerador de senhas
+
+Sistema criado para estudo, gera uma sequencia de caracteres aleatórios que pode ser usado como senha segura.
+
+<img src="/demo.jpg" alt="Texto Alternativo">
